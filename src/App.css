@@ -30,6 +30,7 @@
 .sub-text {
   font-size: 25px;
   color: white;
+  padding-bottom: 50px;
 }
 
 .gradient-text {
@@ -111,7 +112,7 @@
   object-fit: cover;
 }
 
-.connected-container input[type='text'] {
+.connected-container input[type="text"] {
   display: inline-block;
   color: white;
   padding: 10px;
